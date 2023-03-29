@@ -2,6 +2,15 @@
 
 The purpose of this project is to bring machine learning capabilities to [RACE](http://nasarace.github.io/race/).
 
+## Requirements
+
+The machine learning capabilities are currently provided via [TensorFlow Java library](https://www.tensorflow.org/jvm) which is compatible with Java 8 and higher, and supports the following platforms.
+
+- Ubuntu 16.04 or higher, 64-bit, x86
+- Windows 7 or higher, 64-bit, x86
+- macOS 10.12.6 (Sierra) or higher, 64-bit, x86. Note that it does not support Mac machines with M1 and M2 chips.
+
+
 ## Installing RACE-ML
 
 ### RACE 
